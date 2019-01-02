@@ -1,7 +1,4 @@
-# docker-examples
-Some examples and commands about how can we use Docker 
-
-## Add Docker in CMDER
+### Add Docker in CMDER
 + 1º Open CMDER
 + 2º Menu -> Settings / Win + Alt + P
 + 3º Add new task in Startup -> Tasks
@@ -15,4 +12,6 @@ Some examples and commands about how can we use Docker
 ```
 + 6º Save and enjoy :)
 
-##
+### Commands
++ `docker run -ti --rm ubuntu bash`
+>> `-ti` -> Iterative mode, it leaves you know about what is happening while docker is running.
